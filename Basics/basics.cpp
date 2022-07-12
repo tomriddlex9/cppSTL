@@ -15,4 +15,5 @@ int main(){
     cerr<<"Error occured"<<endl; 
     clog<<"This is a buffered error log"<<endl;
     return 0;
+    // ghost 
 }
