@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+## my custom script creates a main file to run for each cpp , so removing main 
+
+main
