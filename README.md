@@ -9,6 +9,6 @@ to get a good refresh of C++ concepts
 * Star this , if you liked the coding style and notes 
 
 
-##✅ Topics Covered : 
+## ✅ Topics Covered : 
 
 * C++ Basics ( I/O , Preprocessor , Data Types and Vars, Operators) ✅
