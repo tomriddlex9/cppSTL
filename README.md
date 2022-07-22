@@ -12,3 +12,4 @@ to get a good refresh of C++ concepts
 ## ✅ Topics Covered : 
 
 * C++ Basics ( I/O , Preprocessor , Data Types and Vars, Operators) ✅
+* Pairs ✅
