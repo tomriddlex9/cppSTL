@@ -13,3 +13,5 @@ to get a good refresh of C++ concepts
 
 * C++ Basics ( I/O , Preprocessor , Data Types and Vars, Operators) ✅
 * Pairs ✅
+* Vectors ✅
+* forward_list and List ✅
