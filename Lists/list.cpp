@@ -45,6 +45,7 @@ int main()
     printList(l1);
     // unique() is used to remove consecutive duplicates in the list
     l1.unique();
+
     l1.reverse();
     printList(l1);
 }
