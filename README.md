@@ -15,3 +15,4 @@ to get a good refresh of C++ concepts
 * Pairs ✅
 * Vectors ✅
 * forward_list and List ✅
+* deque ✅
