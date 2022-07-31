@@ -16,3 +16,4 @@ to get a good refresh of C++ concepts
 * Vectors ✅
 * forward_list and List ✅
 * deque ✅
+* Stack✅
